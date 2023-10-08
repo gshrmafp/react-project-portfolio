@@ -15,22 +15,22 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "During my internship, I designed a user-friendly UI that facilitated data analysis. This UI allowed us to input an ID to retrieve corresponding data, upload CSV files for batch data retrieval, and present the results in a downloadable CSV format..",
     },
     {
       img: profilePic2,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "React.js, commonly known as React, is an open-source JavaScript library developed by Facebook. It is widely used for building user interfaces for web and mobile applications, known for its component-based architecture, virtual DOM, and efficient rendering, making it a popular choice among developers for building interactive and responsive UIs.",
     },
     {
       img: profilePic3,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Spring Boot is an open-source framework within the larger Spring ecosystem that simplifies the development of Java applications by providing production-ready templates and auto-configuration. It's designed to streamline the process of building robust, stand-alone, and microservices-based applications with minimal setup and boilerplate code.",
     },
     {
       img: profilePic4,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "JavaScript is a widely-used, versatile programming language primarily used for web development, enabling interactive and dynamic behavior in web applications.",
     },
   ];
 
