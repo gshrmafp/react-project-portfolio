@@ -57,10 +57,10 @@ const Works = () => {
             <img src={Spring} alt="" />
           </div>
           <div className="w-secCircle">
-            <img src={Node} alt="" />
+            <img src={Airtel} alt="" />
           </div>{" "}
           <div className="w-secCircle">
-            <img src={Airtel} alt="" />
+            <img src={Node} alt="" />
           </div>
           <div className="w-secCircle">
             <img src={Js} alt="" />

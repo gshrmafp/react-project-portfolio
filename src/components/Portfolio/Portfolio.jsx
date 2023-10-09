@@ -7,6 +7,7 @@ import Ecommerce from "../../img/e-commerce.png";
 import Portfolio_img from "../../img/my-portfolio.png";
 import Twitter from "../../img/twitter_clone.jpg";
 import Food_Order from "../../img/food-order.png";
+import Airtel_project from "../../img/Airtel Project.jpg";
 import { themeContext } from "../../Context";
 const Portfolio = () => {
   const theme = useContext(themeContext);
@@ -31,6 +32,10 @@ const Portfolio = () => {
           <SwiperSlide>
           <img src={Twitter} alt="" />
           <h3>Twitter Clone</h3>
+        </SwiperSlide>
+          <SwiperSlide>
+          <img src={Airtel_project} alt="" />
+          <h3>Airtel Project</h3>
         </SwiperSlide>
         <SwiperSlide>
           <img src={Complain_Box} alt="" />
